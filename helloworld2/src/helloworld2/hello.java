@@ -5,5 +5,6 @@ public class hello {
 		System.out.println("hello world 2");
 		System.out.println("update 2");
 		System.out.println("master update");
+		System.out.println("ted update");
 	}
 }
